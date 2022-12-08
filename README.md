@@ -20,7 +20,7 @@ This is the Documentation/Proposal of our SCD Project:
 
 ## Features
 
-My contribution in the group prject consists of following 
+Functionalities of the group prject consists of following 
 functionalities:
 
 - Login of admin
